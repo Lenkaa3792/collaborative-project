@@ -1,0 +1,48 @@
+body{
+    background-color: beige;
+}
+.head{
+    padding-left: 40%;
+    font-style: oblique;
+}
+.navdiv{
+    padding-left: 30px;
+    font-size: large;
+    margin-left: 50%;
+    border: 56px;
+    font-weight: 100;font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+  /* .navdiv a{
+  padding: 5px 20px;
+    background-color: orange;
+} */
+/* .seaa{
+    display: inline-block;
+} */
+
+.seaa .seathings{
+    display: flex;
+}
+
+.seaa .seathings ol li{
+    list-style: none;
+}
+.sea{
+    padding-left: 40px;
+    display: flexbox;
+
+}
+.ol{
+    display: flex;
+}
+.park{
+    padding: 40px;
+}
+.air{
+    padding: 40px;
+}
+.form{
+   padding-left: 40px;
+   background-color: beige;
+}
